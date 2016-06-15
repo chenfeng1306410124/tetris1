@@ -25,7 +25,9 @@ body{
 #wrap div.red{
 	background:red;
 }
-#wrap div.finished{background:#666;}
+#wrap div.finished{
+	background:#666;
+}
 #next{
 	width:300px;height:180px;
 	position:absolute;
